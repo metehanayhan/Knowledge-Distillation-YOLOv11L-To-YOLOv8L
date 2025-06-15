@@ -1,0 +1,8 @@
+val: C:/Users/metehan/Desktop/test/images
+train:
+
+nc: 1
+
+names:
+  0: person 
+
