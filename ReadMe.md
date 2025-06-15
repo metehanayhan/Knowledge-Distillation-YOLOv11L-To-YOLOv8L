@@ -5,7 +5,7 @@
 
 Bu projede, büyük ve güçlü bir öğretmen modeli olan **YOLOv11l**'nin bilgisini daha küçük ve hızlı bir öğrenci model olan **YOLOv8l**'ye aktarmayı amaçladık. Bu süreç, **Knowledge Distillation (KD)** adı verilen bir yöntemle yapay zekaların etkin kullanımıyla gerçekleştirilmiştir.
 
-![image.png](image.png)  ![image-1.png](image-1.png)
+<img src="image.png" width="400"/> <img src="image-1.png" width="400"/>
 
 ---
 
@@ -96,7 +96,7 @@ Bu projede;
 
 In this project, the objective was to transfer the knowledge of a large and powerful **YOLOv11l** teacher model to a smaller and faster **YOLOv8l** student model using the **Knowledge Distillation (KD)** technique.
 
-![image.png](image.png)  ![image-1.png](image-1.png)
+<img src="image.png" width="400"/> <img src="image-1.png" width="400"/>
 
 ---
 
